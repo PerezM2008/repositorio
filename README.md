@@ -1,7 +1,7 @@
 # repositorio
 
 
-![](./Captura%20de%20Tela%202025-02-28%20%C3%A0s%2015.05.38.png)
+![](./imagem.png)
 
 
 ## Projeto
